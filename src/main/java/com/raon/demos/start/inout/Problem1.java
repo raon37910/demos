@@ -1,4 +1,4 @@
-package com.raon.demos.start;
+package com.raon.demos.start.inout;
 
 public class Problem1 {
     public static void main(String[] args) {

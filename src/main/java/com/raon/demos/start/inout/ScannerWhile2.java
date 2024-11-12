@@ -1,4 +1,4 @@
-package com.raon.demos.start;
+package com.raon.demos.start.inout;
 
 import java.util.Scanner;
 
